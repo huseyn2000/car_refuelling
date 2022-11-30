@@ -1,0 +1,11 @@
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\bin\Debug\car_refuelling.exe.config
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\bin\Debug\car_refuelling.exe
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\bin\Debug\car_refuelling.pdb
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.csproj.AssemblyReference.cache
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.Form1.resources
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.Properties.Resources.resources
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.csproj.GenerateResource.cache
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.exe
+C:\Users\Huseyn Naghiyev\source\repos\car_refuelling\car_refuelling\obj\Debug\car_refuelling.pdb
